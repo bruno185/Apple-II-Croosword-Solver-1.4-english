@@ -8,7 +8,7 @@ https://github.com/bruno185/Apple-II-crossword-solver-v.1.4-
 
 Of course, the data (words and indexes) do not fit on a floppy disk, but on a hard disk (physical or virtual) and occupy about 20 MB.
 
-The indexes have been generated with a Delphi Community Edition program, present in the archive present in this repository (motsen3.zip)
+The indexes have been generated with a Delphi Community Edition program, present in this repository (motsen3.zip)
 
 ## Use
 This archive contains a ProDOS disk image (cw.po) to be used it your favourite Apple II emulator or your Apple II.
